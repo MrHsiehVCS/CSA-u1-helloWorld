@@ -7,8 +7,11 @@ For each programming project after this one, the `README.md` will contain all th
 ## Goal
 
 This programming project was mostly about setting up your development environment. 
+
 Good news: if you have downloaded this, you are almost done!
+
 The final part of this programming project is simply to teach you the general flow of your programming projects.
+
 You only need to make a few small changes to the code of this project so that it passes all the automated tests. 
 
 ## Instructions
