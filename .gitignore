@@ -43,3 +43,8 @@ hs_err_pid*
 *.vsix
 
 .DS_Store
+
+.classpath
+.project
+.settings/
+
