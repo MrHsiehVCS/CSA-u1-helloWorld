@@ -4,11 +4,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>csa</groupId>
-  <artifactId>EmptyProjectTemplate</artifactId>
+  <artifactId>csa-u1pp</artifactId>
   <version>1.0</version>
 
-  <name>EmptyProjectTemplate</name>
-  <url>https://github.com/MrHsiehVCS/EmptyProjectTemplate</url>
+  <name>csa-u1pp</name>
+  <url>https://github.com/MrHsiehVCS/csa-u1pp-helloworld</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
